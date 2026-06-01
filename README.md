@@ -1,4 +1,4 @@
-# Static Web Page Builder
+# Static Webpage Builder
 
 A Node.js library for optimizing and packaging static webpages into a ready-to-deploy ZIP archive. It minifies HTML, CSS, and JavaScript files, reports size reduction metrics, and bundles everything into an in-memory buffer — no temporary files needed.
 
